@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Yugal Pradhan",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020kucp1060@iiitkota.ac.in",
+		"phone": "8261029821",
+		"website": "",
+		"summary": "",
+		"location": {
+			"address": "At + Tah + Post Lakhandur Dist. BHandara (Maharashtra)",
+			"postalCode": "441803",
+			"city": "Lakhandur",
+			"countryCode": "India",
+			"region": "Maharashtra"
+		},
+		"profiles": [{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "Github",
+				"username": "YugalPradhan",
+				"url": "https://www.github.com/YugalPradhan/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "yugal_pradhan_",
+				"url": "https://instagram.com/yugal_pradhan_/"
+			}
+		]
+	},
+	"work": [{
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": ["", ""]
+	}],
+	"volunteer": [{
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
